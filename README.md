@@ -1,1 +1,3 @@
-# JacksonL_SepehriZ_MWTP
+# AMR profiling in different stages of a wastewater treatment plant
+
+This study aims to explore the seasonal dynamics and spatial distribution of antimicrobial resistance genes (ARGs) and bacteria composition within various biological treatment units of a wastewater treatment plant. Samples will be collected from aerobic, anaerobic, anoxic zones, and return activated sludge (RAS) to evaluate how ARG profiles and bacteria composition vary across treatment stages. Seasonal sampling will be conducted to capture temporal changes in ARG and bacteria abundance and diversity. Metagenomic libraries will be constructed and sequenced using the Illumina NovaSeq X Plus platform with 2×150 bp paired-end reads. The resulting data will be used to characterize bacterial community composition and quantify the prevalence of ARGs.
